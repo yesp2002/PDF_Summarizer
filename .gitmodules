@@ -1,0 +1,3 @@
+[submodule "LaMini-Flan-T5-248M"]
+	path = LaMini-Flan-T5-248M
+	url = ./
